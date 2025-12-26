@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.uday.shazam</groupId>
+  <artifactId>shazam</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>shazam</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+   <dependency>
+    <groupId>com.github.wendykierp</groupId>
+    <artifactId>JTransforms</artifactId>
+    <version>3.1</version>
+   </dependency>
+
+  </dependencies>
+</project>
